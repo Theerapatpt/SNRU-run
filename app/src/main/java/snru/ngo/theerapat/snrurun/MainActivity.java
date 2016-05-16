@@ -17,6 +17,4 @@ public class MainActivity extends AppCompatActivity {
         startActivity(new Intent(MainActivity.this, SignUp.class));
     }
 
-
-
 } // MainClass นี่คือ คลาสหลัก
